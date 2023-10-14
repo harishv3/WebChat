@@ -2,6 +2,6 @@
 
 ## Tech Stack Used
 
-ReactJS
-NodeJS
+ReactJS<br>
+NodeJS<br>
 Socket.IO
